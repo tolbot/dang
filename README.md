@@ -10,6 +10,9 @@ dang
 # How to install
 
 git clone ...
+
 sudo apt-get install ImageMagick
+
 change the paths in dang.sh and chmod as you please
+
 symlink like : sudo ln -s "~/your-path-to/dang/dang.sh" /usr/bin/dang
